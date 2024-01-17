@@ -1,5 +1,5 @@
 # CodSoft
-This repository contains tasks/projects of my remote internship at CodSoft.
+This repository contains tasks/projects in C++ of my remote internship at CodSoft.
 
 ## Task 1: Number Guessing Game
 
